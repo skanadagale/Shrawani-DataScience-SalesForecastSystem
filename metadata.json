@@ -1,0 +1,6 @@
+{
+  "name": "Rossmann ML Studio",
+  "description": "An end-to-end production-style ML pipeline for retail sales forecasting, featuring feature engineering, model comparison, and business insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
